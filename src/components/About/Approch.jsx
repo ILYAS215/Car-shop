@@ -1,6 +1,5 @@
 import React from "react";
-import img from "../../assets/img/approch.jpg";
-
+import img from "/img/approch.jpg";
 const Approch = () => {
   return (
     <div className=" flex flex-col-reverse justify-center md:flex-row items-center gap-5 mt-14">
